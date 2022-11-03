@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aniketbhuwania
-- 👀 I’m interested in cpp, python and new ideas to make things easier
+- 👀 I’m interested in java, cpp, python and new ideas to make things easier
 - 🌱 I’m currently getting my hands on competitive coding and exploring the new depths 
 - 📫 Reach me up on insta @aniketbhuwania
  
